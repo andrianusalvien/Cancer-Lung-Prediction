@@ -70,6 +70,10 @@ Each record represents a patient profile with categorized risk levels (`Low`, `M
 | Dataset | Kaggle API |
 
 ---
+## 🛠️ Streamlit Test
+streamlit link : https://cancer-lung-pred.streamlit.app/
+
+---
 
 ## ⚙️ Installation & Run Locally
 
@@ -78,4 +82,9 @@ Each record represents a patient profile with categorized risk levels (`Low`, `M
 git clone https://github.com/andrianusalvien/lung-cancer-prediction.git
 cd lung-cancer-prediction
 
-### 
+###
+
+```
+
+
+
